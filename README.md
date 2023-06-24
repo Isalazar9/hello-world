@@ -1,2 +1,2 @@
 # hello-world
-example repository 
+example repository My name is Ivan and I have two dogs.
